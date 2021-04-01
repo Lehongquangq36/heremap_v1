@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/heremap_v1/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/heremap_v1/static/js/main.8a05e2ca.chunk.js",
+    "main.js.map": "/heremap_v1/static/js/main.8a05e2ca.chunk.js.map",
+    "runtime-main.js": "/heremap_v1/static/js/runtime-main.451b30e7.js",
+    "runtime-main.js.map": "/heremap_v1/static/js/runtime-main.451b30e7.js.map",
+    "static/js/2.cf1625be.chunk.js": "/heremap_v1/static/js/2.cf1625be.chunk.js",
+    "static/js/2.cf1625be.chunk.js.map": "/heremap_v1/static/js/2.cf1625be.chunk.js.map",
+    "static/js/3.f9057471.chunk.js": "/heremap_v1/static/js/3.f9057471.chunk.js",
+    "static/js/3.f9057471.chunk.js.map": "/heremap_v1/static/js/3.f9057471.chunk.js.map",
+    "index.html": "/heremap_v1/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/heremap_v1/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cf1625be.chunk.js.LICENSE.txt": "/heremap_v1/static/js/2.cf1625be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.451b30e7.js",
+    "static/js/2.cf1625be.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8a05e2ca.chunk.js"
+  ]
+}
